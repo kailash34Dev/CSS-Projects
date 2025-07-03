@@ -1,10 +1,18 @@
-🌐 CSS Projects Collection
-Welcome to the CSS Projects Collection repository! This repo contains a series of beginner to intermediate-level CSS projects designed to enhance front-end skills and build a strong foundation in modern web styling.
+# 🌐 CSS Projects Collection
 
-💡 Projects Included
+Welcome to the **CSS Projects Collection** repository!  
+This repository contains a series of beginner to intermediate-level CSS projects created to enhance front-end development skills and build a solid foundation in modern web styling.
 
-  🔍 Expanding Search Bar
+---
 
-  🎨 Animated Gradient Border Buttons
+## 💡 Projects Included
 
-  🎯 Animated Login/Signup Form
+Here are some of the CSS mini-projects you'll find in this repo:
+
+- 🔍 **Expanding Search Bar**  
+
+- 🎨 **Animated Gradient Border Buttons**  
+
+- 🎯 **Animated Login/Signup Form**  
+
+---
