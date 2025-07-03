@@ -13,6 +13,4 @@ Here are some of the CSS mini-projects you'll find in this repo:
 
 - 🎨 **Animated Gradient Border Buttons**  
 
-- 🎯 **Animated Login/Signup Form**  
-
----
+- 🎯 **Animated Login/Signup Form**
