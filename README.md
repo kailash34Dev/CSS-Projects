@@ -15,4 +15,6 @@ Here are some of the CSS mini-projects you'll find in this repo:
 
 - 🎯 **Animated Login/Signup Form**  
 
-- 🃏 **Flip Card Animation**
+- 🃏 **Flip Card Animation**  
+
+- 🖼️ **Image Overlay Effect**
