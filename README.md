@@ -17,4 +17,6 @@ Here are some of the CSS mini-projects you'll find in this repo:
 
 - 🃏 **Flip Card Animation**  
 
-- 🖼️ **Image Overlay Effect**
+- 🖼️ **Image Overlay Effect**  
+
+- 📚 **Sidebar Menu**
