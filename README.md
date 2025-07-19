@@ -22,3 +22,5 @@ Here are some of the CSS mini-projects you'll find in this repo:
 - 📚 **Sidebar Menu**
 
 - 🧭 **Bootstrap Navbar Implementation**
+
+- 🎵 **Spotify Clone UI**
